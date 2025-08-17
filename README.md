@@ -56,6 +56,7 @@ echo "google.com" | ./DNS-Resolver-techomass
 
 ### Example:
 **Type the Following Commands One by One To Run the Tool:**
+---
 *-->go mod tidy*//
 ---
 *-->go build -o DNS-Resolver-techoMass*//
